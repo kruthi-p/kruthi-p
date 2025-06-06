@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Kruthi <br>🎯 Aspiring Full Stack Java Developer<br>💻 Currently learning Java, Spring Boot, Hibernate, React, and MySQL<br>📚 Exploring backend & frontend <br>🚀 Passionate about building scalable web applications<br>📌 Open to collaboration on Java and web development projects<br><br><br>
+# 👋 Hi, I'm Kruthi
+🎯 Aspiring Full Stack Java Developer<br>💻 Currently learning Java, Spring Boot, Hibernate, React, and MySQL<br>📚 Exploring backend & frontend <br>🚀 Passionate about building scalable web applications<br>📌 Open to collaboration on Java and web development projects<br><br><br>
 
 
 ## 🌐 Socials:
